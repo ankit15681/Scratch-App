@@ -1,1 +1,1 @@
-web: webpack --config webpack.prod.js
+web: root/public
