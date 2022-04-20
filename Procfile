@@ -1,1 +1,1 @@
-web: root/public
+web: /public
