@@ -1,1 +1,1 @@
-web: bin/boot
+web: webpack --config webpack.prod.js
